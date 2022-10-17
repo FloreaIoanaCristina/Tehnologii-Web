@@ -1,0 +1,192 @@
+body{
+    background-color: darkcyan;
+    height:100%;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    
+}
+div{
+    margin: 0;
+    border: 1px solid ;
+    width: 100%;
+    height: 100%;
+    box-sizing:border-box;
+    
+    
+}
+hr{
+    width: 5%;
+    border-style: dotted none none ;
+    border-width: 12px;
+    border-color: darkgray;
+    margin-bottom: 20px;
+   
+}
+
+#div1
+{
+    
+    background-color: #40826D;
+    
+}
+#div2
+{   
+    background-color: #d1ccdc;
+}
+#div3
+{   
+    background-color: #ebf8b8;
+}
+#div4
+{  
+    background-color: #808080;
+}
+#divfin{
+    margin: 0;
+    border: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing:border-box;
+    float:left
+}
+.divuri{
+    margin: 0;
+    border:0px;
+    display:inline-block;
+}
+.clasaTitluri{
+    
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+
+    
+}
+.textSpecial{
+
+    text-align: center;
+    font-size: 100px;
+    margin:1%;
+    font-family: 'Cookie', cursive;
+}
+#subtext{
+    text-align:right;
+    padding-inline-end: 30%;
+    font-family: 'Press Start 2P', cursive;
+}
+img.pozaBeetle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:20px;
+    border:#000;
+    border-style: dashed;
+    margin-bottom:30px;
+    
+}
+img.pozaCV{
+    
+    display:block;
+    object-fit: cover;
+    border-color: black;
+    border-style:dashed;
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+img.pozeSkill
+{   vertical-align: middle;
+    display:inline;
+    object-fit: cover;
+    border-color: black;
+    border-style:dashed;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    float:left;
+    
+    
+}
+p{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p.skillss{
+    
+    display:inline;
+    text-align: justify;
+    float:inline-start;
+    
+    
+    
+}
+p.skillsd{
+    
+    display:inline;
+    text-align: justify;
+    float:right;
+}
+#dreapta{
+    float:right;
+    position:relative;
+     right: 0%;
+  
+ 
+}
+.divuri{
+    margin-bottom: 5%;
+}
+footer{
+    
+    text-align: center;
+}
+#email{
+    margin:auto;
+    margin-bottom:2%;
+    background-color: #40826D;
+    background-size:contain;
+    text-align:center;
+    display: block;
+    font-size:30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    border:#000 solid;
+    max-width: fit-content;
+  
+    
+}
+#email:hover{
+    opacity: 0.7;
+}
+.fa {
+    color: #000;
+    padding:10px;
+    font-size: 60px !important;
+    text-align: center;
+    text-decoration:none;
+   
+   
+  }
+  
+  .fa-facebook-square:hover{
+    color: #4267b2;
+}
+  
+  .fa-instagram:hover
+  {
+    color: #c13584;
+}
+  
+  .fa-github-square:hover
+  {
+    color: #333;
+}
+  
+  .fa-twitter-square:hover
+  {
+    color: #1da1f2;
+}
+  
+  
